@@ -1,7 +1,7 @@
 ![banner](https://github.com/Bhskr25/BizCardX-Business-card-data-extractor/assets/95600191/8322241b-3e2b-4e0d-af53-601d96f2ca28)
 #####
 # BizCardX: Extracting Business Card Data with OCR 
-> USING OpenCV, MySQL AND STREAMLIT
+> USING OpenCV, Tesseract, MySQL AND STREAMLIT
 ---
 Welcome to the Business card data extractor Dashboard! The Business Card Details Extractor is a Streamlit application designed to extract information from images of business cards using Optical Character Recognition (OCR) and search for details in an SQL table based on user input.
 

@@ -1,0 +1,11 @@
+mysql-connector-python==8.3.0
+numpy==1.26.4
+opencv-python-headless==4.9.0.80
+pandas==2.2.1
+pillow==10.2.0
+pytesseract==0.3.10
+streamlit==1.32.0
+streamlit-option-menu==0.3.12
+torch==2.2.1
+torchaudio==2.2.1
+torchvision==0.17.1
